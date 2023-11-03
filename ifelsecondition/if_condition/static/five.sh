@@ -1,0 +1,6 @@
+#!/bin/bash
+number=100
+if [[ $number -eq 100 ]]
+then
+echo "$number is equal to  100"
+fi
